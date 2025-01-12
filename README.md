@@ -50,8 +50,7 @@ Before running the tool, make sure you have the following:
   pip install requests threading colorama pygame Pillow pystyle playsound aiohttp multiprocess
 
 
-
-  Necessary Files
+Necessary Files
 The following files must be present in the directory:
 71316.png (Background Image)
 hack-hacker.gif (GIF Animation)
