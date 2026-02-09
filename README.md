@@ -122,7 +122,6 @@ Enjoy responsibly!
 Contact
 For inquiries or feedback, feel free to reach out to the developer at:
 
-Email: Williamkitungo@gmail.com
 GitHub: Illusivehacks GitHub
 
 
